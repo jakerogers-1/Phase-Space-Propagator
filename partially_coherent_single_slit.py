@@ -7,14 +7,11 @@ def rect(x, half_wid):
 
 # Simulation parameters
 pixel_x = 1E-6 # meters 
-
 # Half the width of the slit 
 half_wid  = 100 * pixel_x # meters
-
 # The width of the Gaussian correlation function which defines the coherence
 # profile of the beam
 gauss_corr_wid = 150 * pixel_x
-
 wavelength = 500E-6 # meters
 prop_dist  = 1E-6   # meters
 points = 1000 
