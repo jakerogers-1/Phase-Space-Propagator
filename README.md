@@ -5,11 +5,11 @@
 
  Installation of the propagator is as follows:
  ```
-    pip install your-package-name
+    pip install psprop
  ```
 
  Please review the example files for a demonstration of its use.
 
  This code is also available at PyPi [here](https://pypi.org/project/psprop/)
 
- A fuller description of the theory is included in a journal publication to-be-submitted. 
+ A fuller description of the theory is included in a journal publication submitted to Optics Communications.
